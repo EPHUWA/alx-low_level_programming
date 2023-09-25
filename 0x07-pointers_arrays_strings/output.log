@@ -1,0 +1,36 @@
+nohup: ignoring input
+[main aa847ac] 2-strchr.c Push
+ 1 file changed, 23 insertions(+)
+ create mode 100644 0x07-pointers_arrays_strings/2-strchr.c
+To https://github.com/EPHUWA/alx-low_level_programming.git
+   4f842a7..aa847ac  main -> main
+[main 275ed78] 101-crackme_password Push
+ 1 file changed, 1 insertion(+)
+ create mode 100644 0x07-pointers_arrays_strings/101-crackme_password
+To https://github.com/EPHUWA/alx-low_level_programming.git
+   aa847ac..275ed78  main -> main
+[main dde41fd] 1-memcpy.c Push
+ 1 file changed, 20 insertions(+)
+ create mode 100644 0x07-pointers_arrays_strings/1-memcpy.c
+To https://github.com/EPHUWA/alx-low_level_programming.git
+   275ed78..dde41fd  main -> main
+[main d46b2b7] 100-set_string.c Push
+ 1 file changed, 12 insertions(+)
+ create mode 100644 0x07-pointers_arrays_strings/100-set_string.c
+To https://github.com/EPHUWA/alx-low_level_programming.git
+   dde41fd..d46b2b7  main -> main
+[main 72ef970] README.md Push
+ 1 file changed, 2 insertions(+)
+ create mode 100644 0x07-pointers_arrays_strings/README.md
+To https://github.com/EPHUWA/alx-low_level_programming.git
+   d46b2b7..72ef970  main -> main
+[main ebfe20a] 3-strspn.c Push
+ 1 file changed, 33 insertions(+)
+ create mode 100644 0x07-pointers_arrays_strings/3-strspn.c
+To https://github.com/EPHUWA/alx-low_level_programming.git
+   72ef970..ebfe20a  main -> main
+[main 147641d] main.h Push
+ 1 file changed, 19 insertions(+)
+ create mode 100644 0x07-pointers_arrays_strings/main.h
+To https://github.com/EPHUWA/alx-low_level_programming.git
+   ebfe20a..147641d  main -> main
