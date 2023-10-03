@@ -21,7 +21,8 @@ char **strtow(char *str)
 		{
 			if ((str[i] != ' ') && (str[i] != '\0'))
 				size++;
-			else if (((str[i] == ' ') || (str[i] == '\0')) && i && (str[i - 1] != ' '))
+			else if (((str[i] == ' ') || (str[i] == '\0'))
+					&& i && (str[i - 1] != ' '))
 			{
 				split[j] = (char *) malloc(sizeof(char) * size + 1);
 				if (split[j] != NULL)
@@ -54,10 +55,11 @@ char **strtow(char *str)
 
 /**
  * num_words - counts the number of words in str
- *@str: string to be used
+ * @str: string to be used
  *
- *Return: number of words
+ * Return: number of words
  */
+
 int num_words(char *str)
 {
 	int i = 0, words = 0;
@@ -68,7 +70,8 @@ int num_words(char *str)
 		{
 			i++;
 		}
-		else if (((str[i] == ' ') || (str[i] == '\0')) && i && (str[i - 1] != ' '))
+		else if (((str[i] == ' ') || (str[i] == '\0'))
+				&& i && (str[i - 1] != ' '))
 		{
 			words += 1;
 			i++;
@@ -83,7 +86,7 @@ int num_words(char *str)
 
 /**
  * len - returns length of str
- *@str: string to be counted
+ * @str: string to be counted
  *
  * Return: length of the string
  */
